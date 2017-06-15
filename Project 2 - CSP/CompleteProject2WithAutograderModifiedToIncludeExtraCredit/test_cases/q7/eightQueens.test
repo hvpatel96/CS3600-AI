@@ -1,0 +1,6 @@
+solve
+csp csps/eightQueens.csp
+function leastConstrainingValuesHeuristic
+function minimumRemainingValuesHeuristic
+function maintainArcConsistency
+boolean True
